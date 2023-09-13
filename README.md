@@ -31,6 +31,6 @@ This function converts an input image into a circular badge without any restrict
 You can use the provided example usage code for each function as a reference to test your badge images.
 
 ## Dependencies
-    This script relies on the Pillow library for image processing. You can install it using pip install Pillow.
+This script relies on the Pillow library for image processing. You can install it using pip install Pillow.
 
 Feel free to use, modify, and integrate these functions into your projects as needed. Enjoy creating and verifying badge images!
